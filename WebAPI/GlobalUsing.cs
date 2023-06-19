@@ -1,0 +1,10 @@
+﻿global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using WebAPI.Application.Commands.UserCommands;
+global using WebAPI.Application.Queries.GroupImageQueries;
+global using WebAPI.Application.Queries.UserQueries;
+global using WebAPI.DTOs;
+global using WebAPI.Repositoties;
+global using WebAPI.Database.Entities;
+global using Microsoft.EntityFrameworkCore;
+global using WebAPI.Database;
